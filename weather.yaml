@@ -3,11 +3,11 @@ info:
   title: WebApplication1
   version: '2.19'
 paths:
-  /Home1:
+  /Home:
     get:
       tags:
-        - Home1
-      operationId: GetHome1
+        - Home
+      operationId: GetHome
       responses:
         '200':
           description: Success
