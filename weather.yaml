@@ -6,7 +6,7 @@ paths:
   /Home1:
     get:
       tags:
-        - Home
+        - Home1
       operationId: GetHome1
       responses:
         '200':
