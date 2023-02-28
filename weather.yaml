@@ -7,7 +7,7 @@ paths:
     get:
       tags:
         - Home
-      operationId: GetHome
+      operationId: GetHome1
       responses:
         '200':
           description: Success
