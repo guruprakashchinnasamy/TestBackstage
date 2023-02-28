@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: Weather
+  description: The weather APIs
+  tags:
+    - weather
+    - rest
+spec:
+  type: openapi
+  lifecycle: experimental
+  owner: team-c
+  definition:
+    $text: https://github.com/guruprakashchinnasamy/TestBackstage/blob/main/weather.yaml
