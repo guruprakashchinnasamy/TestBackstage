@@ -6,6 +6,7 @@ metadata:
   tags:
     - weather
     - rest
+    - api
 spec:
   type: openapi
   lifecycle: experimental
