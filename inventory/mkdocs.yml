@@ -10,7 +10,7 @@ nav:
       - Inventory: 'database-used/inventory-database.md'
   - Users:
       - Internal Team : 'users/internal-team.md'
-      - Thrid Party Team : 'overview/what-is-backstage.md'
+      - Thrid Party Team : 'users/thirdparty-team.md'
   - API:
       - (POST) Inventory: 'tting-started/index.md'
       - (GET) Inventory: 'tting-started/index.md'
