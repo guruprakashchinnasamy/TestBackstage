@@ -16,4 +16,4 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition:
-    $text: https://github.com/guruprakashchinnasamy/TestBackstage/blob/main/inventory/swaggerInventory.yaml
+    $text: https://github.com/guruprakashchinnasamy/TestBackstage/blob/main/inventory/SwaggerInventory.yaml
