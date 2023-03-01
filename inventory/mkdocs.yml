@@ -1,6 +1,6 @@
 site_name: 'Example Documentation'
 repo_url: https://github.com/guruprakashchinnasamy/TestBackstage
-edit_uri: edit/master/docs
+edit_uri: edit/master/inventory/docs
 
 nav:
   - Home: index.md
