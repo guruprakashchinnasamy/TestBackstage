@@ -13,7 +13,7 @@ nav:
       - Thrid Party Team : 'users/thirdparty-team.md'
   - API:
       - (GET) Products: 'api/get-products.md'
-      - (POST) Products: 'tting-started/index.md'
+      - (POST) Products: 'api/post-products.md'
       - (GET) Products {id}: 'tting-started/index.md'
       - (PUT) Products {id}: 'tting-started/index.md'
       
