@@ -1,9 +1,19 @@
-site_name: 'Example Documentation'
+site_name: 'Inventory API'
 repo_url: https://github.com/guruprakashchinnasamy/TestBackstage
 edit_uri: edit/master/inventory/docs
 
 nav:
-  - Home: index.md
+  - Overview:
+      - What is Inventory API?: 'overview/what-is-backstage.md'
+  - Database Used:
+      - Membership: 'overview/what-is-backstage.md'
+      - Inventory: 'overview/what-is-backstage.md'
+  - Users:
+      - Intra Team : 'overview/what-is-backstage.md'
+      - Thrid Party Team : 'overview/what-is-backstage.md'
+  - API:
+      - (POST) Inventory: 'tting-started/index.md'
+      - (GET) Inventory: 'tting-started/index.md'
   #- Subpage: sub-page.md
   #- 'Code Sample': code/code-sample.md
   #- Extensions: extensions.md
