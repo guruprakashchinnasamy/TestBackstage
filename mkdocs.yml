@@ -1,0 +1,12 @@
+site_name: 'Example Documentation'
+repo_url: https://github.com/guruprakashchinnasamy/TestBackstage
+edit_uri: edit/master/docs
+
+nav:
+  - Home: index.md
+  - Subpage: sub-page.md
+  - 'Code Sample': code/code-sample.md
+  - Extensions: extensions.md
+
+plugins:
+  - techdocs-core
