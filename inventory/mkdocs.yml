@@ -4,7 +4,7 @@ edit_uri: edit/master/inventory/docs
 
 nav:
   - Overview:
-      - What is Inventory API?: 'overview/what-is-backstage.md'
+      - What is Inventory API?: 'overview/what-is-inventory-API.md'
   - Database Used:
       - Membership: 'overview/what-is-backstage.md'
       - Inventory: 'overview/what-is-backstage.md'
