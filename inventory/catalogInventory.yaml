@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: InventoryAPI
+  name: Inventory
   description: These API are created for accessing inventory data.
   tags:
     - inventory
