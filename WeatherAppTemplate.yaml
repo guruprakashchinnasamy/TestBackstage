@@ -7,6 +7,10 @@ metadata:
     - weather
     - rest
     - api
+    # Example for optional annotations
+  annotations:
+    #github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: openapi
   lifecycle: experimental
