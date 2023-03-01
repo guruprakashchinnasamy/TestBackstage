@@ -6,7 +6,7 @@ nav:
   - Overview:
       - What is Inventory API?: 'overview/what-is-inventory-API.md'
   - Database Used:
-      - Membership: 'overview/what-is-backstage.md'
+      - Membership: 'database-used/membership.md'
       - Inventory: 'overview/what-is-backstage.md'
   - Users:
       - Intra Team : 'overview/what-is-backstage.md'
