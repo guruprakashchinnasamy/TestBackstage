@@ -12,8 +12,11 @@ nav:
       - Internal Team : 'users/internal-team.md'
       - Thrid Party Team : 'users/thirdparty-team.md'
   - API:
-      - (POST) Inventory: 'tting-started/index.md'
-      - (GET) Inventory: 'tting-started/index.md'
+      - (GET) Products: 'tting-started/index.md'
+      - (POST) Products: 'tting-started/index.md'
+      - (GET) Products {id}: 'tting-started/index.md'
+      - (PUT) Products {id}: 'tting-started/index.md'
+      
   #- Subpage: sub-page.md
   #- 'Code Sample': code/code-sample.md
   #- Extensions: extensions.md
