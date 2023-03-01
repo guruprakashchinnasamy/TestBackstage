@@ -14,7 +14,7 @@ nav:
   - API:
       - (GET) Products: 'api/get-products.md'
       - (POST) Products: 'api/post-products.md'
-      - (GET) Products {id}: 'tting-started/index.md'
+      - (GET) Products {id}: 'api/get-product-id.md'
       - (PUT) Products {id}: 'tting-started/index.md'
       
   #- Subpage: sub-page.md
