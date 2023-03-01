@@ -12,7 +12,7 @@ nav:
       - Internal Team : 'users/internal-team.md'
       - Thrid Party Team : 'users/thirdparty-team.md'
   - API:
-      - (GET) Products: 'api/Products.md'
+      - (GET) Products: 'api/get-products.md'
       - (POST) Products: 'tting-started/index.md'
       - (GET) Products {id}: 'tting-started/index.md'
       - (PUT) Products {id}: 'tting-started/index.md'
