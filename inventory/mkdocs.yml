@@ -9,7 +9,7 @@ nav:
       - Membership: 'database-used/membership.md'
       - Inventory: 'database-used/inventory-database.md'
   - Users:
-      - Intra Team : 'overview/what-is-backstage.md'
+      - Internal Team : 'users/internal-team.md'
       - Thrid Party Team : 'overview/what-is-backstage.md'
   - API:
       - (POST) Inventory: 'tting-started/index.md'
