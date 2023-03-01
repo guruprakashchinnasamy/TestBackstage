@@ -1,13 +1,13 @@
 openapi: 3.0.1
 info:
   title: WebApplication1
-  version: '2.19'
+  version: '3.19'
 paths:
-  /Home:
+  /Home1:
     get:
       tags:
-        - Home
-      operationId: GetHome
+        - Home1
+      operationId: GetHome1
       responses:
         '200':
           description: Success
