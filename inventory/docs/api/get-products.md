@@ -3,7 +3,7 @@
 
 This `GET /products` API used to get all the products from inventory database.
 
-End-point: http://localhost:3000/api/Products?inStock=true&skip=1&take=1
+Request-url: http://localhost:3000/api/Products?inStock=true&skip=1&take=1
 
 #### Header
 
