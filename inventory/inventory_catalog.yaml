@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Weather
-  description: The weather APIs
+  name: Inventory API
+  description: These API are created for accessing inventory data.
   tags:
-    - weather
+    - inventory
     - rest
     - api
     # Example for optional annotations
@@ -16,4 +16,4 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition:
-    $text: https://github.com/guruprakashchinnasamy/TestBackstage/blob/main/weather.yaml
+    $text: https://github.com/guruprakashchinnasamy/TestBackstage/blob/main/inventory/swagger_inventory.yaml
